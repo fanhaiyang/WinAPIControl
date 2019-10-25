@@ -1,0 +1,6 @@
+E:\workspace\WindowsFormsControl\FormControlManager\bin\Debug\FormControlManager.dll
+E:\workspace\WindowsFormsControl\FormControlManager\bin\Debug\FormControlManager.pdb
+E:\workspace\WindowsFormsControl\FormControlManager\obj\Debug\FormControlManager.csproj.CoreCompileInputs.cache
+E:\workspace\WindowsFormsControl\FormControlManager\obj\Debug\FormControlManager.dll
+E:\workspace\WindowsFormsControl\FormControlManager\obj\Debug\FormControlManager.pdb
+E:\workspace\WindowsFormsControl\FormControlManager\bin\Debug\FormControlManager.dll.config
